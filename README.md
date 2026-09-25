@@ -220,4 +220,4 @@ Mindomo is available as a full free version, providing all features and updates 
 Unlock your potential and streamline your thought process with Mindomo! Download now and start creating!
 
 ---
-**Last updated:** 2026-09-25 18:15:10 UTC
+**Last updated:** 2026-09-25 22:00:01 UTC
